@@ -23,3 +23,4 @@ Echo Ai is a responsive AI-powered chatbot built with **React**, **TailwindCSS**
 - **TailwindCSS** - Styling
 - **OpenAI API** - ChatGPT integration
 - **React Icons** - Microphone icon for voice input
+ 
