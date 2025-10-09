@@ -4,7 +4,7 @@
 
 Echo Ai is a responsive AI-powered chatbot built with **React**, **TailwindCSS**, and the **OpenAI API**. Users can interact with the AI via **text input** or **voice commands**. The app automatically stores chat history in **localStorage** for persistence.
 
----
+--- 
 
 ## Features 
 
